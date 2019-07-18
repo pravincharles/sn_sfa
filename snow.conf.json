@@ -1,0 +1,27 @@
+{
+  "snow": {
+    "instance": "dev71249.service-now.com",
+    "auth": "Basic YWRtaW46U2NoZW5uYWkhMDI=",
+    "endpoint": "x_174999_ll_index.do"
+  },
+  "application": {
+    "name": "Ang02",
+    "scope": "x_174999_ll",
+    "sys_id": "0733f49cdb323300b5c39444ca961983"
+  },
+  "files": {
+    "html": {
+      "index": "6733f49cdb323300b5c39444ca9619fa"
+    },
+    "js": {
+      "inline": "",
+      "polyfills": "af33389cdb323300b5c39444ca96191d",
+      "vendor": "",
+      "main": "a333389cdb323300b5c39444ca961935",
+      "runtime": "2733389cdb323300b5c39444ca961929"
+    },
+    "css": {
+      "styles": "eb33389cdb323300b5c39444ca961940"
+    }
+  }
+}
